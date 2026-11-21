@@ -1,0 +1,81 @@
+{
+  "method": "Local author review with candidate IDs and running scores hidden in shuffled A/B sheets; not independent and not house judge calls.",
+  "ordered_pairings": 90,
+  "selection_rule": "Most raw wins; shorter Unicode text breaks a tie. Margins are recorded but do not select the winner.",
+  "ranking": [
+    {
+      "id": "C08",
+      "wins": 17,
+      "losses": 1,
+      "characters": 235,
+      "bytes": 235
+    },
+    {
+      "id": "C03",
+      "wins": 16,
+      "losses": 2,
+      "characters": 208,
+      "bytes": 208
+    },
+    {
+      "id": "C01",
+      "wins": 15,
+      "losses": 3,
+      "characters": 237,
+      "bytes": 237
+    },
+    {
+      "id": "C02",
+      "wins": 12,
+      "losses": 6,
+      "characters": 215,
+      "bytes": 215
+    },
+    {
+      "id": "C04",
+      "wins": 10,
+      "losses": 8,
+      "characters": 230,
+      "bytes": 230
+    },
+    {
+      "id": "C10",
+      "wins": 7,
+      "losses": 11,
+      "characters": 232,
+      "bytes": 232
+    },
+    {
+      "id": "C06",
+      "wins": 7,
+      "losses": 11,
+      "characters": 241,
+      "bytes": 241
+    },
+    {
+      "id": "C07",
+      "wins": 4,
+      "losses": 14,
+      "characters": 232,
+      "bytes": 232
+    },
+    {
+      "id": "C05",
+      "wins": 2,
+      "losses": 16,
+      "characters": 217,
+      "bytes": 217
+    },
+    {
+      "id": "C09",
+      "wins": 0,
+      "losses": 18,
+      "characters": 250,
+      "bytes": 250
+    }
+  ],
+  "winner": {
+    "id": "C08",
+    "text": "On the ferry home, you lean against your mother. Her knitting rests in her lap. Beyond the glass, a star holds still while the black water folds and unfolds. You wake once. The wool has slipped over your knees. The star is still there."
+  }
+}

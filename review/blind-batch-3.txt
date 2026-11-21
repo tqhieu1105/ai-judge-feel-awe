@@ -1,0 +1,121 @@
+Read only A and B. Apply the published judge criteria in order: calm, naturalness, craft, expanding scale, freshness. Choose A or B, margin 1-5, and a short reason. Candidate IDs and running scores are withheld.
+
+PAIR 61
+A: My brother carried his baby onto the porch. Her fist opened against his shirt. Above the field, the stars were coming out. He rocked from heel to toe, heel to toe. Light from before the first tree lay along her cheek.
+B: Your father rolls your trousers twice. The sand is cool. A wave spreads around your feet, then slides away. He holds your shoes. Far above his shoulder, the moon is drawing the sea slowly back over your toes.
+
+PAIR 62
+A: Your father rolls your trousers twice. The sand is cool. A wave spreads around your feet, then slides away. He holds your shoes. Far above his shoulder, the moon is drawing the sea slowly back over your toes.
+B: Your grandfather lets you turn the handle of the old telescope. The moon moves slowly into the glass. A white plain. The rim of a crater. His sleeve brushes yours. Inside that round shadow, nothing has stirred for longer than there have been flowers.
+
+PAIR 63
+A: Your sister unzips the tent a little. A strip of sky appears. She tucks the sleeping bag under your chin. Through the opening, the Milky Way runs past the pine branches. The zip stops. You lie there together, looking through that little gap.
+B: Your father rolls your trousers twice. The sand is cool. A wave spreads around your feet, then slides away. He holds your shoes. Far above his shoulder, the moon is drawing the sea slowly back over your toes.
+
+PAIR 64
+A: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
+B: You help your grandmother bring in the sheets. They smell of wind. One corner trails over your arm while she folds the other. Above the roof, the Milky Way stretches on, and on. She finds your hand inside the cloth.
+
+PAIR 65
+A: Your father steadies the stool. In the eyepiece, Saturn is pale as milk. You can see the rings. You look for so long that he sits down beside you, one hand still resting on your back. Out past the garden, a whole world turns inside them.
+B: Your father rolls your trousers twice. The sand is cool. A wave spreads around your feet, then slides away. He holds your shoes. Far above his shoulder, the moon is drawing the sea slowly back over your toes.
+
+PAIR 66
+A: Your father steadies the stool. In the eyepiece, Saturn is pale as milk. You can see the rings. You look for so long that he sits down beside you, one hand still resting on your back. Out past the garden, a whole world turns inside them.
+B: Your sister unzips the tent a little. A strip of sky appears. She tucks the sleeping bag under your chin. Through the opening, the Milky Way runs past the pine branches. The zip stops. You lie there together, looking through that little gap.
+
+PAIR 67
+A: On the ferry home, you lean against your mother. Her knitting rests in her lap. Beyond the glass, a star holds still while the black water folds and unfolds. You wake once. The wool has slipped over your knees. The star is still there.
+B: My grandfather wet a pebble and set it in my palm. A small fern opened in the stone. We sat on the riverbank, his boots beside mine, while water moved over the other pebbles. The fern had been waiting there since before the birds.
+
+PAIR 68
+A: My brother carried his baby onto the porch. Her fist opened against his shirt. Above the field, the stars were coming out. He rocked from heel to toe, heel to toe. Light from before the first tree lay along her cheek.
+B: My grandfather wet a pebble and set it in my palm. A small fern opened in the stone. We sat on the riverbank, his boots beside mine, while water moved over the other pebbles. The fern had been waiting there since before the birds.
+
+PAIR 69
+A: Your father rolls your trousers twice. The sand is cool. A wave spreads around your feet, then slides away. He holds your shoes. Far above his shoulder, the moon is drawing the sea slowly back over your toes.
+B: Your father steadies the stool. In the eyepiece, Saturn is pale as milk. You can see the rings. You look for so long that he sits down beside you, one hand still resting on your back. Out past the garden, a whole world turns inside them.
+
+PAIR 70
+A: You help your grandmother bring in the sheets. They smell of wind. One corner trails over your arm while she folds the other. Above the roof, the Milky Way stretches on, and on. She finds your hand inside the cloth.
+B: On the ferry home, you lean against your mother. Her knitting rests in her lap. Beyond the glass, a star holds still while the black water folds and unfolds. You wake once. The wool has slipped over your knees. The star is still there.
+
+PAIR 71
+A: You help your grandmother bring in the sheets. They smell of wind. One corner trails over your arm while she folds the other. Above the roof, the Milky Way stretches on, and on. She finds your hand inside the cloth.
+B: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
+
+PAIR 72
+A: My brother carried his baby onto the porch. Her fist opened against his shirt. Above the field, the stars were coming out. He rocked from heel to toe, heel to toe. Light from before the first tree lay along her cheek.
+B: Your father steadies the stool. In the eyepiece, Saturn is pale as milk. You can see the rings. You look for so long that he sits down beside you, one hand still resting on your back. Out past the garden, a whole world turns inside them.
+
+PAIR 73
+A: Your father steadies the stool. In the eyepiece, Saturn is pale as milk. You can see the rings. You look for so long that he sits down beside you, one hand still resting on your back. Out past the garden, a whole world turns inside them.
+B: My grandfather wet a pebble and set it in my palm. A small fern opened in the stone. We sat on the riverbank, his boots beside mine, while water moved over the other pebbles. The fern had been waiting there since before the birds.
+
+PAIR 74
+A: Your father rolls your trousers twice. The sand is cool. A wave spreads around your feet, then slides away. He holds your shoes. Far above his shoulder, the moon is drawing the sea slowly back over your toes.
+B: On the ferry home, you lean against your mother. Her knitting rests in her lap. Beyond the glass, a star holds still while the black water folds and unfolds. You wake once. The wool has slipped over your knees. The star is still there.
+
+PAIR 75
+A: Your father steadies the stool. In the eyepiece, Saturn is pale as milk. You can see the rings. You look for so long that he sits down beside you, one hand still resting on your back. Out past the garden, a whole world turns inside them.
+B: My brother carried his baby onto the porch. Her fist opened against his shirt. Above the field, the stars were coming out. He rocked from heel to toe, heel to toe. Light from before the first tree lay along her cheek.
+
+PAIR 76
+A: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
+B: Your father rolls your trousers twice. The sand is cool. A wave spreads around your feet, then slides away. He holds your shoes. Far above his shoulder, the moon is drawing the sea slowly back over your toes.
+
+PAIR 77
+A: My grandfather wet a pebble and set it in my palm. A small fern opened in the stone. We sat on the riverbank, his boots beside mine, while water moved over the other pebbles. The fern had been waiting there since before the birds.
+B: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
+
+PAIR 78
+A: You help your grandmother bring in the sheets. They smell of wind. One corner trails over your arm while she folds the other. Above the roof, the Milky Way stretches on, and on. She finds your hand inside the cloth.
+B: Your father steadies the stool. In the eyepiece, Saturn is pale as milk. You can see the rings. You look for so long that he sits down beside you, one hand still resting on your back. Out past the garden, a whole world turns inside them.
+
+PAIR 79
+A: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
+B: Your mother cuts an apple at the kitchen window. She slides a thin slice toward you. The moon rests above the dark orchard. Once it hung over an earth with no orchards, no windows. She cuts another slice. You can hear the skin part.
+
+PAIR 80
+A: On the ferry home, you lean against your mother. Her knitting rests in her lap. Beyond the glass, a star holds still while the black water folds and unfolds. You wake once. The wool has slipped over your knees. The star is still there.
+B: Your sister unzips the tent a little. A strip of sky appears. She tucks the sleeping bag under your chin. Through the opening, the Milky Way runs past the pine branches. The zip stops. You lie there together, looking through that little gap.
+
+PAIR 81
+A: Your grandfather lets you turn the handle of the old telescope. The moon moves slowly into the glass. A white plain. The rim of a crater. His sleeve brushes yours. Inside that round shadow, nothing has stirred for longer than there have been flowers.
+B: Your father steadies the stool. In the eyepiece, Saturn is pale as milk. You can see the rings. You look for so long that he sits down beside you, one hand still resting on your back. Out past the garden, a whole world turns inside them.
+
+PAIR 82
+A: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
+B: My brother carried his baby onto the porch. Her fist opened against his shirt. Above the field, the stars were coming out. He rocked from heel to toe, heel to toe. Light from before the first tree lay along her cheek.
+
+PAIR 83
+A: Your grandfather lets you turn the handle of the old telescope. The moon moves slowly into the glass. A white plain. The rim of a crater. His sleeve brushes yours. Inside that round shadow, nothing has stirred for longer than there have been flowers.
+B: My brother carried his baby onto the porch. Her fist opened against his shirt. Above the field, the stars were coming out. He rocked from heel to toe, heel to toe. Light from before the first tree lay along her cheek.
+
+PAIR 84
+A: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
+B: On the ferry home, you lean against your mother. Her knitting rests in her lap. Beyond the glass, a star holds still while the black water folds and unfolds. You wake once. The wool has slipped over your knees. The star is still there.
+
+PAIR 85
+A: My grandfather wet a pebble and set it in my palm. A small fern opened in the stone. We sat on the riverbank, his boots beside mine, while water moved over the other pebbles. The fern had been waiting there since before the birds.
+B: On the ferry home, you lean against your mother. Her knitting rests in her lap. Beyond the glass, a star holds still while the black water folds and unfolds. You wake once. The wool has slipped over your knees. The star is still there.
+
+PAIR 86
+A: Your grandfather lets you turn the handle of the old telescope. The moon moves slowly into the glass. A white plain. The rim of a crater. His sleeve brushes yours. Inside that round shadow, nothing has stirred for longer than there have been flowers.
+B: Your mother cuts an apple at the kitchen window. She slides a thin slice toward you. The moon rests above the dark orchard. Once it hung over an earth with no orchards, no windows. She cuts another slice. You can hear the skin part.
+
+PAIR 87
+A: My brother carried his baby onto the porch. Her fist opened against his shirt. Above the field, the stars were coming out. He rocked from heel to toe, heel to toe. Light from before the first tree lay along her cheek.
+B: Your grandfather lets you turn the handle of the old telescope. The moon moves slowly into the glass. A white plain. The rim of a crater. His sleeve brushes yours. Inside that round shadow, nothing has stirred for longer than there have been flowers.
+
+PAIR 88
+A: You help your grandmother bring in the sheets. They smell of wind. One corner trails over your arm while she folds the other. Above the roof, the Milky Way stretches on, and on. She finds your hand inside the cloth.
+B: Your sister unzips the tent a little. A strip of sky appears. She tucks the sleeping bag under your chin. Through the opening, the Milky Way runs past the pine branches. The zip stops. You lie there together, looking through that little gap.
+
+PAIR 89
+A: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
+B: My grandfather wet a pebble and set it in my palm. A small fern opened in the stone. We sat on the riverbank, his boots beside mine, while water moved over the other pebbles. The fern had been waiting there since before the birds.
+
+PAIR 90
+A: Your mother cuts an apple at the kitchen window. She slides a thin slice toward you. The moon rests above the dark orchard. Once it hung over an earth with no orchards, no windows. She cuts another slice. You can hear the skin part.
+B: Your daughter asks for one more push. The swing creaks softly. At the top of each arc, her bare feet cover a few stars, then let them go. You catch the seat and hold it still. Above her toes, the pale river of the Milky Way goes on.
